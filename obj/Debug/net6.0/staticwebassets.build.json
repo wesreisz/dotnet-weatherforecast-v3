@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w+LXGOyMo8Yfc5r09MptRBtiZECfv52icE8ncGZLLeQ=",
+  "Source": "weatherforecastv3-service",
+  "BasePath": "_content/weatherforecastv3-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

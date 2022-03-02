@@ -1,0 +1,22 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: weatherforecast-deployment
+  labels:
+    app: weatherforecast 
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: weatherforecast
+  template:
+    metadata:
+      labels:
+        app: weatherforecast
+    spec:
+      containers:
+        - image: harbor.wesleyreisz.com/demo/weatherforecast-v3:latest 
+          name: weatherforecast 
+          ports:
+            - containerPort: 8080
+              name: http

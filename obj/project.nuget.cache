@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTMN167mK35s5tJWTYw7A0ZSJzh8slLSus7qSHLsjS40CQLaSsOe2h/b0QTu2qkCncw92FMVClS+lSqd0NnIjQ==",
+  "success": true,
+  "projectFilePath": "/Users/wesleyreisz/work/vmware/to-demo/new-folder/weatherforecastv3-service/weatherforecastv3-service.csproj",
+  "expectedPackageFiles": [
+    "/Users/wesleyreisz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/wesleyreisz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/wesleyreisz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/wesleyreisz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/wesleyreisz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/wesleyreisz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
